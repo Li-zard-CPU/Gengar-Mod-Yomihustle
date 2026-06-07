@@ -1,0 +1,44 @@
+{
+  "name": "Gengar",
+  "displayName": "Gengar Wizard",
+  "description": "The Ghost/Poison-type Pokémon, now as a playable wizard!",
+  "baseCharacter": "wizard",
+  "sprites": {
+    "idle": "sprites/idle.png",
+    "attack": "sprites/attack.png",
+    "hurt": "sprites/hurt.png",
+    "win": "sprites/win.png",
+    "portrait": "sprites/portrait.png"
+  },
+  "animations": {
+    "idle": {
+      "frames": [0],
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "speed": 0
+    },
+    "attack": {
+      "frames": [0, 1],
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "speed": 8
+    },
+    "hurt": {
+      "frames": [0],
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "speed": 0
+    },
+    "win": {
+      "frames": [0],
+      "frameWidth": 64,
+      "frameHeight": 64,
+      "speed": 0
+    }
+  },
+  "colors": {
+    "primary": "#4b367c",
+    "secondary": "#9b3b9b",
+    "accent": "#ffffff"
+  }
+}
