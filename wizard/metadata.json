@@ -1,0 +1,12 @@
+{
+  "modName": "Gengar Wizard",
+  "modVersion": "1.0.0",
+  "author": "Li-zard-CPU",
+  "description": "Transform the Wizard into Gengar, the Ghost/Poison Pokémon",
+  "gameVersion": "1.0+",
+  "type": "character_reskin",
+  "target": "wizard",
+  "compatibility": ["browser", "debug"],
+  "tags": ["pokemon", "gengar", "character-mod", "visual"],
+  "license": "CC0"
+}
